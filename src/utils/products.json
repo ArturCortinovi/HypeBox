@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Tênis",
+    "image": "",
+    "quantity": "3",
+    "category": "Esportiva"
+  },
+  {
+    "id": "2",
+    "name": "Camiseta",
+    "image": "",
+    "quantity": "5",
+    "category": "Esportiva"
+  },
+  {
+    "id": "3",
+    "name": "Corrente",
+    "image": "",
+    "quantity": "2",
+    "category": "Esportiva"
+  },
+  {
+    "id": "4",
+    "name": "Brinco",
+    "image": "",
+    "quantity": "2",
+    "category": "Ouro"
+  },
+  {
+    "id": "5",
+    "name": "Moletom",
+    "image": "",
+    "quantity": "8",
+    "category": "Esportiva"
+  }
+]
